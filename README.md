@@ -33,11 +33,11 @@ Characters - array from 'a' to 'z' - `('a'..'z').to_a`
 Objectives:
 
 1. return all the letters, capitalized
-2. first letter with ord > 120
+2. first letter with `ord > 120`
 3. all the letters whose capital is > 72
 4. all letters where the capital has an even ord
 5. all letters with odd ord
 6. first odd - ord letter with ascii value > 80
 
 For reference:
-`letter.ord` - returns the ascii value of a letter
+`letter.ord` - returns the ascii value of a letter (as an integer)
