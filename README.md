@@ -28,7 +28,7 @@ For reference:
 
 ## Practice with Characters
 
-Characters - array from 'a' to 'z' - ('a'..'z').to_a
+Characters - array from 'a' to 'z' - `('a'..'z').to_a`
 
 Objectives:
 
